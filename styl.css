@@ -1,0 +1,36 @@
+body {
+    background-color: lightslategrey;
+    color:#DEB887;
+    
+    font-size:20px;
+    font-weight:normal;
+    margin: auto;
+   }
+
+.avatar {
+
+width:150px;
+border-radius:45px;
+box-shadow:8px 8px 28px black;
+}
+.in{display:flex;}
+.info{padding-left: 50px;}
+.conter{width:700px ;
+margin: auto;
+padding:auto;}
+.contact{text-decoration:underline ;
+color:blue;
+font-size:15px;}
+.free{
+margin-bottom:20 px;
+border-radius:45px;}
+.edu{background-color:#1b6a6e;
+padding-left: 50px;}
+.hob{background-color: #cd9855;
+padding-left: 50px;}
+.abo{background-color: #885f43;
+padding-left: 50px;}
+.expi{background-color:#6e525c;}
+.tabel{wiwidth: 100%;
+}
+.tabel td{padding-bottom:10px;}
